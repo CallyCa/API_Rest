@@ -4,5 +4,5 @@
 echo '# Update package list'
 sudo apt-get update
 
-echo '# Update package list'
+echo '# Upgrade package list'
 sudo apt-get upgrade -y
